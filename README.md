@@ -1,4 +1,4 @@
-# Toy-problem-challenge
+# Toy-problem challenge
 
 This repository contains Python solutions for three coding challenges. Each challenge focuses on different aspects of programming logic.
 
@@ -8,15 +8,12 @@ This repository contains Python solutions for three coding challenges. Each chal
 Convert a given 12-hour time to 24-hour time format.
 
 ### Function Signature:
- ```python
 def convert_to_24_hour_format(hour, minute, period):
-    The function takes in hour, minute and period as inputs an returns time in 
-    24 hour clock system
-   
+    # implementation
+ 
+ # Challenge 2: Two Numbers are Positive
 
-# Challenge 2: Two Numbers are Positive
-
-### Task
+### Task:
   Write a function that returns True if exactly two out of three integers are positive, and False otherwise.
 
 ### Function signature
@@ -40,3 +37,4 @@ Given a lowercase string with alphabetic characters only, return the highest val
     # implementation
     This function calculates the values of consonant substrings and finds the highest value among them. It uses a dictionary to map each consonant to its corresponding value and iterates through all possible substrings to find their values and determine the maximum.
  
+
